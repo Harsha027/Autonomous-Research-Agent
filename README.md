@@ -166,7 +166,7 @@ The generated report includes:
 
 ## Author
 
-Harshavardhan
+Harshavardhan Neerati
 
 ---
 
