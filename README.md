@@ -172,4 +172,4 @@ Harshavardhan Neerati
 
 ## License
 
-This project was developed as part of the Xiarch AI Automation Engineer Assessment.
+This project is shared for learning, research, and demonstration purposes.
